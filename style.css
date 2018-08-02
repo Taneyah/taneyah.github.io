@@ -1,0 +1,24 @@
+
+
+body {
+  text-align: center;
+  background-color: white;
+  text-decoration: underline;
+    text-decoration-color: #FBE1F5;
+}
+h1 {
+  text-align: center;
+  font-family: "Imapct", bold;
+}
+body{
+  font-family: "GEORGIA";
+  font-size: 18px;
+  line-height: 30px;
+  color: black
+
+}
+h2{
+  font-size: 18px;
+  margin: 6px
+
+}
